@@ -5,6 +5,7 @@ export default function signupPage() {
     <div>
       signupPage
       <div>우당탕탕</div>
+      <div>깃 너무 어려워</div>
     </div>
   );
 }
